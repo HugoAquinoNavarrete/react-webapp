@@ -19,7 +19,7 @@ class App extends Component {
           >
           </a>
           <h3>
-            Aprendiendo algo nuevo 2020
+            Aprendiendo algo nuevo en 2020
           </h3>
         </header>
       </div>
