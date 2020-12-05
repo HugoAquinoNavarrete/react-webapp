@@ -19,7 +19,7 @@ class App extends Component {
           >
           </a>
           <h3>
-            CloudAcademy ❤ DevOps 2019 - version 2.0
+            Aprendiendo algo nuevo 2020
           </h3>
         </header>
       </div>
