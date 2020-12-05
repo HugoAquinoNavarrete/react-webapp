@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edita <code>src/App.js</code> para hacer algún ajuste.
           </p>
           <a
             className="App-link"
@@ -19,7 +19,7 @@ class App extends Component {
           >
           </a>
           <h3>
-            Aprendiendo algo nuevo en 2020
+            Aprendiendo algo nuevo en 2020, un año que será recordado por mucho tiempo
           </h3>
         </header>
       </div>
