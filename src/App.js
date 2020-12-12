@@ -19,7 +19,7 @@ class App extends Component {
           >
           </a>
           <h3>
-            Aprendiendo algo nuevo en 2020, un año que será recordado por mucho tiempo, probando Webhook
+            Aprendiendo algo nuevo en 2020, un año que será recordado por mucho tiempo, probando Webhook para Jenkins
           </h3>
         </header>
       </div>
