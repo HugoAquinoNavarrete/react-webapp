@@ -19,6 +19,7 @@ pipeline {
             steps {            
                 sh "yarn install"
                 sh "yarn build"
+                sh "yarn upgrade caniuse-lite browserslist"
             }
         }
 
