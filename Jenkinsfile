@@ -18,8 +18,8 @@ pipeline {
         stage('Build'){
             steps {            
                 sh "yarn install"
-                sh "yarn build"
                 sh "yarn upgrade caniuse-lite browserslist"
+                sh "yarn build"
             }
         }
 
